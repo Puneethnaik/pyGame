@@ -8,4 +8,4 @@ running = True # this indicates the state of the program
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            running = False # this is means the user has pressed the close button on the window
+            running = False # this means the user has pressed the close button on the window and the window has to close!!!
