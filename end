@@ -1,0 +1,10 @@
+[1mdiff --git a/tut1.py b/tut1.py[m
+[1mindex 1c5332a..a7c3a07 100644[m
+[1m--- a/tut1.py[m
+[1m+++ b/tut1.py[m
+[36m@@ -8,4 +8,4 @@[m [mrunning = True # this indicates the state of the program[m
+ while running:[m
+     for event in pygame.event.get():[m
+         if event.type == pygame.QUIT:[m
+[31m-            running = False # this is means the user has pressed the close button on the window[m
+[32m+[m[32m            running = False # this means the user has pressed the close button on the window and the window has to close!!![m
