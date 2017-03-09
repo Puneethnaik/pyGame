@@ -1,3 +1,0 @@
-# pyGame
-Here are the pygame code that i followed from a tutorial.
-These are nicely commented though...
