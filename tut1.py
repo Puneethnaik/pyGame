@@ -1,6 +1,6 @@
 import pygame
 from pygame.locals import *
-screen = pygame.display.set_mode([1024, 728])
+screen = pygame.display.set_mode([1024, 728], FULLSCREEN)
 #car = pygame.image.load("/home/puneeth/Desktop/googledp.jpg")
 #screen.blit(car, (50, 100))
 pygame.display.flip()
